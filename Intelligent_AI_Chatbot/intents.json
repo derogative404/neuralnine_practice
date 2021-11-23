@@ -1,0 +1,13 @@
+{"intents": [
+    {"tag": "greetings",
+    "patterns": ["hello", "hey", "hi", "good day", "Greetings", "wassup?", "what's up?", "how is it going"],
+    "responses": ["Hello", "Hey!", "What can I do for you?"]},
+
+    {"tag": "goodbye",
+    "patterns": ["bye", "cya", "See you later", "See ya", "peace", "I'm gonna go", "I am leaving", "I'ma head out"],
+    "responses": ["Goodbye!", "Nice talking to you!", "See you!"]}
+
+    {"tag": "",
+    "patterns": ["hello", "hey", "hi", "good day", "Greetings", "wassup?", "what's up?", "how is it going"],
+    "responses": ["Hello", "Hey!", "What can I do for you?"]}
+]}
